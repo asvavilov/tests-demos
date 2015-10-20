@@ -5,6 +5,8 @@ Selenium, WebDriver
 -------------------
 
 app.js
+test-webdriverio.js
+test.rb
 
 PhantomJS
 ---------
