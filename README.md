@@ -30,4 +30,4 @@ More: https://wiki.jenkins-ci.org/display/JENKINS/Starting+and+Accessing+Jenkins
 
 Jenkin's workspace:
 
-%USERPROFILE%\.jenkins
+~/.jenkins
