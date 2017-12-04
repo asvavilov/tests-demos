@@ -4,9 +4,9 @@ My Learn Tests
 Selenium, WebDriver
 -------------------
 
-app.js
-test-webdriverio.js
-test.rb
+- selenium-webdriver-test.js
+- webdriverio-test.js
+- test.rb
 
 PhantomJS
 ---------
@@ -20,6 +20,11 @@ phantomjs rasterize.js ...
 phantomjs confess.js ...
 
 phantomjs yslow.js ...
+
+Puppeteer
+---------
+
+puppeteer-test.js
 
 Jenkins
 -------
